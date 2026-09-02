@@ -2,6 +2,9 @@
 
 > A professional AI skill for designing, building, and QA-checking modern web interfaces with senior product design discipline.
 
+[![CI](https://github.com/Zaheer-verse/DesignForge/actions/workflows/ci.yml/badge.svg)](https://github.com/Zaheer-verse/DesignForge/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 DesignForge is a Codex/AI-agent skill that turns web UI requests into a structured design-engineering workflow. It helps an agent move from discovery to implementation, responsive QA, accessibility review, performance checks, security review, and deployment readiness without falling into generic template output.
 
 ## Quick Navigation
@@ -14,6 +17,8 @@ DesignForge is a Codex/AI-agent skill that turns web UI requests into a structur
 - [Validation](#validation)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+
+Repository: [github.com/Zaheer-verse/DesignForge](https://github.com/Zaheer-verse/DesignForge)
 
 ## Why This Exists
 

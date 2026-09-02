@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Added
 
+- Public GitHub repository metadata and README badges for CI and license.
 - Professional README with installation, usage, architecture, validation, troubleshooting, roadmap, and contribution guidance.
 - Documentation hierarchy under `docs/` for quickstart, installation, usage, validation, architecture, skill reference, and troubleshooting.
 - Realistic examples for landing pages, dashboards, AI app interfaces, and e-commerce product pages.
